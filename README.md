@@ -46,9 +46,9 @@ This project is based on AWS and its creation will contains charges in your bill
   Store the URL as a secret in Git Secrets only in gitOPS-APP repository.
 
 
-**#################################**
+**#####################**
 **CHANGES ON gitOPS-IAAC REPOSITORY**
-**#################################**
+**#####################**
 
 - On "variables.tf" file, modify "region" variable data with your region.
 

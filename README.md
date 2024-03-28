@@ -15,8 +15,8 @@ This prevents administrators or any user from connecting to the AWS infrastructu
 
 As mentioned, this project revolves around GitHub. We have two repositories:
 
-    gitOPS-IAAC: for Terraform code (Infrastructure)
-    gitOPS-APP: for application code (Build, Test & Deploy)
+   gitOPS-IAAC: for Terraform code (Infrastructure)
+   gitOPS-APP: for application code (Build, Test & Deploy)
 
 Both have a defined workflow that detects changes in the code and applies it to the infrastructure/application.
 
